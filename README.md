@@ -1,2 +1,2 @@
 # Uber-Hotspot
-Share and earn
+Share & Earn
